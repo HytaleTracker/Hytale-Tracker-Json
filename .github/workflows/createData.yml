@@ -13,6 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Debug secret
+        run: |
+          echo "Length of secret:" ${#GOOGLE_SERVICE_ACCOUNT_KEY}
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
