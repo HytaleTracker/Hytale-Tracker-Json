@@ -2654,7 +2654,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon says worldgen is infinite, but is currently turned off - can be turned on.",
-    "mainText": "'It's infinite but turned off atm because it doesn't look good on the map / it's confusing and not worth fixing because we are doing something different that will be explained in an upcoming blog post!\r\nYou can edit the config to turn it back on; the tech can make it work.' by Simon\n\n(infinite, currently turned off, not worth fixing because they are doing something different....\n\n\"Something different\" = worldgen 2? or what?)",
+    "mainText": "'It's infinite but turned off atm because it doesn't look good on the map / it's confusing and not worth fixing because we are doing something different that will be explained in an upcoming blog post!\nYou can edit the config to turn it back on; the tech can make it work.' by Simon\n\n(infinite, currently turned off, not worth fixing because they are doing something different....\n\n\"Something different\" = worldgen 2? or what?)",
     "date": "11 18 2025",
     "tags": [
       "Simon",
@@ -6081,7 +6081,10 @@
     "mainText": "'hey I need to keep some surprises' by Simon",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community",
+      "Simon Notes",
+      "Hints"
     ],
     "sources": [
       {
@@ -6095,10 +6098,13 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon has offered to share the Faun screenshots/clip with KweebecCorner",
-    "mainText": "'I have contacted \r\n@KweebecCorner\r\n and offered him exclusive screenshots/clip for it. Let's see if he wants to do it now :P' by Simon",
+    "mainText": "'I have contacted @KweebecCorner and offered him exclusive screenshots/clip for it. Let's see if he wants to do it now :P' by Simon",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community",
+      "Simon Notes",
+      "Hints"
     ],
     "sources": [
       {
@@ -6115,7 +6121,11 @@
     "mainText": "'We believe it may be too early for us to support a mod like Create. Some parts should be possible with the support of animated models used as blocks. Moving structures is something we want to add eventually but there is a lot of listening and homework in front of us. Conceptually our vision will get those results but the tech is not there yet.' by Slikey",
     "date": "11 20 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Gameplay",
+      "Early Access",
+      "Tech",
+      "Engine - Legacy"
     ],
     "sources": [
       {

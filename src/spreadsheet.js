@@ -4,7 +4,7 @@ const { JWT } = require('google-auth-library');
 const fs = require('fs');
 
 // const doc = new GoogleSpreadsheet(config.spreadsheet);
-const creds = require("../other/googlekey.json");
+const creds = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY);
 
 module.exports.lookup = async function() {
     await lookup();
