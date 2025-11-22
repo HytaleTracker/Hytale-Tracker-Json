@@ -98,5 +98,6 @@ var lookup = async function() {
     }
 
     fs.writeFileSync("data/tweetIndexes.json", JSON.stringify(filesToCreate, null, 2));
+    fs.writeFileSync("data/tweetCount.json", JSON.stringify(tweets.length + 1, null, 2))
 
 }

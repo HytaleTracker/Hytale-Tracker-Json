@@ -5,13 +5,15 @@
     "mainText": "'Yep, still works' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Feature"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992332487314538799?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992332487314538799?s=20"
         ]
       }
     ]
@@ -22,13 +24,16 @@
     "mainText": "'I will do the Hypixel studios one with guitar string + leave, cant find clip atm' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Art",
+      "Future stuff",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992332403604701518?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992332403604701518?s=20"
         ]
       }
     ]
@@ -39,13 +44,16 @@
     "mainText": "'Added for later, thanks' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Art",
+      "Future stuff",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992331884567957712?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992331884567957712?s=20"
         ]
       }
     ]
@@ -56,13 +64,15 @@
     "mainText": "'I noticed!' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Art",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992329454690124083?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992329454690124083?s=20"
         ]
       }
     ]
@@ -73,13 +83,15 @@
     "mainText": "'The art is where its difficult to keep up yep, this is also why we plan to provide a massive amount of it to begin with. \r\n\r\nWe will scale the content team for the sake of modding.' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Art",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992329019144950165?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992329019144950165?s=20"
         ]
       }
     ]
@@ -90,13 +102,17 @@
     "mainText": "'In Hytale it would go hard. It would also be 5x times faster to do in Hytale because of our tools and accessibility to modding.\r\n\r\nI don’t think anyone understands whats about to happen in terms of development on Hytale. Speed of production is insane.' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Modding",
+      "Server",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992328131286646862?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992328131286646862?s=20"
         ]
       }
     ]
@@ -107,13 +123,14 @@
     "mainText": "'MEME: \"SILENCE, Engineer, Ideas guy is talking.\"' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Off Topic"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992327494561644637?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992327494561644637?s=20"
         ]
       }
     ]
@@ -124,13 +141,14 @@
     "mainText": "'We already solved it. The singularity happened and it is done.' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992326719861366796?s=20"
+          "https://xcancel.com/slikey_dev/status/1992326719861366796?s=20"
         ]
       }
     ]
@@ -141,13 +159,14 @@
     "mainText": "'Yes' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992326482954535321?s=20"
+          "https://xcancel.com/slikey_dev/status/1992326482954535321?s=20"
         ]
       }
     ]
@@ -158,13 +177,14 @@
     "mainText": "'These were old branches we had to triage and consolidate. I called it the \"singularity event\". We had to get to a point where we have all the prototypes and features in a single branch so that all work off the same codebase and avoid merge issues.' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992322183918727212?s=20"
+          "https://xcancel.com/slikey_dev/status/1992322183918727212?s=20"
         ]
       }
     ]
@@ -175,13 +195,15 @@
     "mainText": "'For anyone interested in the full version, we use a Trunk-base development strategy: https://trunkbaseddevelopment.com' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs",
+      "Off Topic"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992321566659768327?s=20"
+          "https://xcancel.com/slikey_dev/status/1992321566659768327?s=20"
         ]
       }
     ]
@@ -192,13 +214,15 @@
     "mainText": "'When ideas guy posts your branching strategy in a TL;DR 🤣' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs",
+      "Off Topic"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992320918690070789?s=20"
+          "https://xcancel.com/slikey_dev/status/1992320918690070789?s=20"
         ]
       }
     ]
@@ -209,13 +233,16 @@
     "mainText": "'Shout-out to Roran for this insane parallax Hytale art piece! Simply stunning!' by Oscar Garvin\n\n(Featuring many community members in the artwork, including me!)",
     "date": "11 21 2025",
     "tags": [
-      "Oscar Garvin"
+      "Oscar Garvin",
+      "Community",
+      "Art",
+      "Music"
     ],
     "sources": [
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1992305580900257881?s=20"
+          "https://xcancel.com/onpujam/status/1992305580900257881?s=20"
         ]
       }
     ]
@@ -226,13 +253,14 @@
     "mainText": "'Correct. Its not super difficult to implement but the impact to the base game is also rather small at the moment, so we are working through the more pressing issues.' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Tech"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992302372199281067?s=20"
+          "https://xcancel.com/slikey_dev/status/1992302372199281067?s=20"
         ]
       }
     ]
@@ -243,13 +271,14 @@
     "mainText": "'Yep, right now we have a floating point precision issues. You'll see the game get weird when you go far away. There are fixes we want to apply but they are not prioritized right now.' by Slikey\n\n(NOTE: Previous version of this tweet was deleted and reposted with corrected wording.)",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Tech"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992301942467600688?s=20"
+          "https://xcancel.com/slikey_dev/status/1992301942467600688?s=20"
         ]
       }
     ]
@@ -260,13 +289,14 @@
     "mainText": "'No idea, we haven't tried it. We are trying to get native support for PC platforms including Linux as some of our team members like Linux. We'll run tests if we can't get Linux ready for launch' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Tech"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992301330690646363?s=20"
+          "https://xcancel.com/slikey_dev/status/1992301330690646363?s=20"
         ]
       }
     ]
@@ -277,13 +307,15 @@
     "mainText": "'Sorry for missing your question. The protocol is the determining factor here. Usually game updates don't alter the protocol but in case that happens, we plan to have a compatibility layer in the future so that you have some time to update your mods and server. I expect us to mess it up early into early access but for that we allow users to select the \"previous\" game version so that they can still join your server and update their game when you updated the server.\r\nWe understand this problem a lot as we had to maintain version compatibility for a dozen versions over at Hypixel and we want to make it as painless as possible.' by Slikey",
     "date": "11 21 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Server",
+      "Tech"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992299658710745235?s=20"
+          "https://xcancel.com/slikey_dev/status/1992299658710745235?s=20"
         ]
       }
     ]
@@ -294,13 +326,15 @@
     "mainText": "'Archeologists at work' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Simon Notes",
+      "Off Topic"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992293164443394240?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992293164443394240?s=20"
         ]
       }
     ]
@@ -311,13 +345,17 @@
     "mainText": "'Found on a prototype branch, fixed it up and now adding to main. Just need proper art on it and we are set!' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992292033973936140?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992292033973936140?s=20"
         ]
       }
     ]
@@ -328,13 +366,16 @@
     "mainText": "'I mean, we have been doing block game PvP for 13+ years 😅\r\nWe will have client and server side anticheat in the future as well.\r\n\r\nGame runs quite well when connecting to a server, I suspect our min specs will be much lower for players joining their friends or servers.' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992280976957796529?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992280976957796529?s=20"
         ]
       }
     ]
@@ -345,13 +386,14 @@
     "mainText": "'100%! Even before reaching consoles, we're planning for controller support. We already try to minimize the number of keybinds as much as possible, but it's proven quite difficult. We'll also consider different types of controllers, like the Adaptive Controller from Microsoft' by Mewen",
     "date": "11 21 2025",
     "tags": [
-      "Mewen"
+      "Mewen",
+      "Accessibility"
     ],
     "sources": [
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992278110784385128?s=20"
+          "https://xcancel.com/MewSoul/status/1992278110784385128?s=20"
         ]
       }
     ]
@@ -362,13 +404,14 @@
     "mainText": "'Ah gotcha! Yeah, we'll assess what options make sense for the game, and we'll get there step by step!' by Mewen",
     "date": "11 21 2025",
     "tags": [
-      "Mewen"
+      "Mewen",
+      "Accessibility"
     ],
     "sources": [
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992276612214362339?s=20"
+          "https://xcancel.com/MewSoul/status/1992276612214362339?s=20"
         ]
       }
     ]
@@ -379,13 +422,15 @@
     "mainText": "'there is an option for it, turned off for recording because it clutters the UI, need better way of doing it' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Feature",
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992275733318918624?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992275733318918624?s=20"
         ]
       }
     ]
@@ -403,7 +448,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992273856799572092?s=20"
+          "https://xcancel.com/MewSoul/status/1992273856799572092?s=20"
         ]
       }
     ]
@@ -421,7 +466,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992272994832728260?s=20"
+          "https://xcancel.com/MewSoul/status/1992272994832728260?s=20"
         ]
       }
     ]
@@ -439,7 +484,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992269782398464147?s=20"
+          "https://xcancel.com/MewSoul/status/1992269782398464147?s=20"
         ]
       }
     ]
@@ -459,7 +504,7 @@
       {
         "1": [
           "tweet by Hytale",
-          "https://vxtwitter.com/Hytale/status/1992261793591484635?s=20"
+          "https://xcancel.com/Hytale/status/1992261793591484635?s=20"
         ]
       }
     ]
@@ -478,7 +523,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992255458745385009?s=20"
+          "https://xcancel.com/MewSoul/status/1992255458745385009?s=20"
         ]
       }
     ]
@@ -497,7 +542,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992255321839140909?s=20"
+          "https://xcancel.com/MewSoul/status/1992255321839140909?s=20"
         ]
       }
     ]
@@ -516,7 +561,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/1992237195613311085?s=20"
+          "https://xcancel.com/ThomasFrick/status/1992237195613311085?s=20"
         ]
       }
     ]
@@ -534,7 +579,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/1992236976779804693?s=20"
+          "https://xcancel.com/ThomasFrick/status/1992236976779804693?s=20"
         ]
       }
     ]
@@ -552,7 +597,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/1992236536990257429?s=20"
+          "https://xcancel.com/ThomasFrick/status/1992236536990257429?s=20"
         ]
       }
     ]
@@ -572,7 +617,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992233978108301571?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992233978108301571?s=20"
         ]
       }
     ]
@@ -592,7 +637,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/1992232672563982447?s=20"
+          "https://xcancel.com/ThomasFrick/status/1992232672563982447?s=20"
         ]
       }
     ]
@@ -612,7 +657,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/1992231989135781954?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/1992231989135781954?s=20"
         ]
       }
     ]
@@ -632,7 +677,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/1992231666694369638?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/1992231666694369638?s=20"
         ]
       }
     ]
@@ -652,7 +697,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/1992231030842134725?s=20"
+          "https://xcancel.com/ThomasFrick/status/1992231030842134725?s=20"
         ]
       }
     ]
@@ -671,7 +716,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992227005555949772?s=20"
+          "https://xcancel.com/MewSoul/status/1992227005555949772?s=20"
         ]
       }
     ]
@@ -689,7 +734,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992200583097286885?s=20"
+          "https://xcancel.com/MewSoul/status/1992200583097286885?s=20"
         ]
       }
     ]
@@ -708,7 +753,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992202615846003087?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992202615846003087?s=20"
         ]
       }
     ]
@@ -726,7 +771,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992196106336276785?s=20"
+          "https://xcancel.com/MewSoul/status/1992196106336276785?s=20"
         ]
       }
     ]
@@ -745,7 +790,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992196069048910302?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992196069048910302?s=20"
         ]
       }
     ]
@@ -765,7 +810,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992195406655087052?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992195406655087052?s=20"
         ]
       }
     ]
@@ -784,7 +829,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992194287887626474?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992194287887626474?s=20"
         ]
       }
     ]
@@ -804,7 +849,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992196245159387426?s=20"
+          "https://xcancel.com/MewSoul/status/1992196245159387426?s=20"
         ]
       }
     ]
@@ -822,7 +867,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1992193412271890821?s=20"
+          "https://xcancel.com/MewSoul/status/1992193412271890821?s=20"
         ]
       }
     ]
@@ -842,7 +887,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992193367417971115?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992193367417971115?s=20"
         ]
       }
     ]
@@ -861,7 +906,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992182859495358950?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992182859495358950?s=20"
         ]
       }
     ]
@@ -881,7 +926,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1992182236704059591?s=20"
+          "https://xcancel.com/onpujam/status/1992182236704059591?s=20"
         ]
       }
     ]
@@ -902,7 +947,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992181952741613871?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992181952741613871?s=20"
         ]
       }
     ]
@@ -921,7 +966,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992181366302114109?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992181366302114109?s=20"
         ]
       }
     ]
@@ -941,7 +986,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992150407188226341?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992150407188226341?s=20"
         ]
       }
     ]
@@ -962,7 +1007,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992146978701197753?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992146978701197753?s=20"
         ]
       }
     ]
@@ -982,7 +1027,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992144409576853543?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992144409576853543?s=20"
         ]
       }
     ]
@@ -1000,7 +1045,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992143677846597758?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992143677846597758?s=20"
         ]
       }
     ]
@@ -1020,7 +1065,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992067172785684924?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992067172785684924?s=20"
         ]
       }
     ]
@@ -1041,7 +1086,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992028642071736697?s=20"
+          "https://xcancel.com/slikey_dev/status/1992028642071736697?s=20"
         ]
       }
     ]
@@ -1061,7 +1106,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992019256490512707?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992019256490512707?s=20"
         ]
       }
     ]
@@ -1081,7 +1126,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992012854879510901?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992012854879510901?s=20"
         ]
       }
     ]
@@ -1100,7 +1145,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992010995569754162?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992010995569754162?s=20"
         ]
       }
     ]
@@ -1121,7 +1166,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992008085658055137?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992008085658055137?s=20"
         ]
       }
     ]
@@ -1140,7 +1185,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992006969213997255?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992006969213997255?s=20"
         ]
       }
     ]
@@ -1159,7 +1204,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992006522105454790?s=20"
+          "https://xcancel.com/slikey_dev/status/1992006522105454790?s=20"
         ]
       }
     ]
@@ -1179,7 +1224,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992005389110669407?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992005389110669407?s=20"
         ]
       }
     ]
@@ -1199,7 +1244,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992005227336351828?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1992005227336351828?s=20"
         ]
       }
     ]
@@ -1219,7 +1264,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992004911899566231?s=20"
+          "https://xcancel.com/slikey_dev/status/1992004911899566231?s=20"
         ]
       }
     ]
@@ -1238,7 +1283,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992001182144073752?s=20"
+          "https://xcancel.com/slikey_dev/status/1992001182144073752?s=20"
         ]
       }
     ]
@@ -1257,7 +1302,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1991999320305053913?s=20"
+          "https://xcancel.com/slikey_dev/status/1991999320305053913?s=20"
         ]
       }
     ]
@@ -1276,7 +1321,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991946800903631358?s=20"
+          "https://xcancel.com/onpujam/status/1991946800903631358?s=20"
         ]
       }
     ]
@@ -1295,7 +1340,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991946291656511709?s=20"
+          "https://xcancel.com/onpujam/status/1991946291656511709?s=20"
         ]
       }
     ]
@@ -1315,7 +1360,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991942817804120343?s=20"
+          "https://xcancel.com/onpujam/status/1991942817804120343?s=20"
         ]
       }
     ]
@@ -1335,7 +1380,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991933782006612017?s=20"
+          "https://xcancel.com/onpujam/status/1991933782006612017?s=20"
         ]
       }
     ]
@@ -1355,7 +1400,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991933454947393870?s=20"
+          "https://xcancel.com/onpujam/status/1991933454947393870?s=20"
         ]
       }
     ]
@@ -1375,7 +1420,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991921703207985458?s=20"
+          "https://xcancel.com/onpujam/status/1991921703207985458?s=20"
         ]
       }
     ]
@@ -1395,7 +1440,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991919986559025500?s=20"
+          "https://xcancel.com/onpujam/status/1991919986559025500?s=20"
         ]
       }
     ]
@@ -1415,7 +1460,7 @@
       {
         "1": [
           "tweet by Propzie",
-          "https://vxtwitter.com/Propzie/status/1991907934096511420?s=20"
+          "https://xcancel.com/Propzie/status/1991907934096511420?s=20"
         ]
       }
     ]
@@ -1435,7 +1480,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1991906871754764697?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1991906871754764697?s=20"
         ]
       }
     ]
