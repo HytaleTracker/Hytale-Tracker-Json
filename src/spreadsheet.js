@@ -93,7 +93,8 @@ var lookup = async function() {
     const filesToCreate = Math.ceil(tweets.length / 100);
     for(let i = 0; i < filesToCreate; i++){
         const chunk = tweets.slice(i * 100, i * 100 + 100);
-        fs.writeFileSync(`data/devs-post-revival${i}.json`, JSON.stringify(chunk, null, 2));
+        const reversedChunk = chunk.reverse();
+        fs.writeFileSync(`data/devs-post-revival${i}.json`, JSON.stringify(reversedChunk, null, 2));
     }
 
     fs.writeFileSync("data/tweetIndexes.json", JSON.stringify(filesToCreate, null, 2));
