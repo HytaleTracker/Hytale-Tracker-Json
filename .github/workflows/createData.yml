@@ -47,7 +47,7 @@ jobs:
           cd target
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data/devs-post-revival.json
+          git add data/
           git commit -m "Update JSON" || true
           git push
         env:
