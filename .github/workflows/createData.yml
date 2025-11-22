@@ -10,6 +10,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+    
+      - name: Install dependencies
+        run: npm install
+
       - name: Generate JSON
         run: node index.js
 
