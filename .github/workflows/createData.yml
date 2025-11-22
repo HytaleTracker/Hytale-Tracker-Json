@@ -37,10 +37,10 @@ jobs:
         run: |
           git clone https://x-access-token:${GITHUB_TOKEN}@github.com/HytaleTracker/HytaleTracker.github.io.git target
 
-      - name: Copy file
+      - name: Copy folder
         run: |
           mkdir -p target/data
-          cp data/devs-post-revival.json target/data/devs-post-revival.json
+          cp -r data/ target/data/tweets/
 
       - name: Commit & push
         run: |

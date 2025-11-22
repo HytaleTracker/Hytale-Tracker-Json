@@ -90,7 +90,10 @@ var lookup = async function() {
     }
     console.log(tweets.length + " tweets found");
     //export to 2025-3.json
-    fs.writeFileSync('data/devs-post-revival.json', JSON.stringify(tweets, null, 2));
-
+    const filesToCreate = Math.ceil(tweets.length / 100);
+    for(let i = 0; i < filesToCreate; i++){
+        const chunk = tweets.slice(i * 100, i * 100 + 100);
+        fs.writeFileSync(`data/devs-post-revival${i}.json`, JSON.stringify(chunk, null, 2));
+    }
 
 }
