@@ -96,4 +96,6 @@ var lookup = async function() {
         fs.writeFileSync(`data/devs-post-revival${i}.json`, JSON.stringify(chunk, null, 2));
     }
 
+    fs.writeFileSync("data/tweetIndexes.json", JSON.stringify(filesToCreate, null, 2));
+
 }
