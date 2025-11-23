@@ -55,7 +55,7 @@ var lookup = async function() {
         const formattedDate = (d.getMonth() + 1) + ' ' + d.getDate() + ' ' + d.getFullYear();
         if(Link!=null){
             console.log(formattedDate + " | " + Author.value + " | " + Link + " | " + tweet.value + " | " + importance.value + " | " + tags.value + " | " + notes.value);
-            let summary = "'"+tweet.value+"' by "+Author.value;
+            let summary = "'"+tweet.value+"'";
             if(notes.value!=null){
                 summary += "\n\n(" + notes.value + ")";
             }
