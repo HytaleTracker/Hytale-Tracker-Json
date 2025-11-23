@@ -45,8 +45,8 @@ var lookup = async function() {
         }
         const tweet = sheet.getCell(i-1, 3);
         const importance = sheet.getCell(i-1, 4);
-        const tags = sheet.getCell(i-1, 6);
-        const notes = sheet.getCell(i-1, 7);
+        const tags = sheet.getCell(i-1, 5);
+        const notes = sheet.getCell(i-1, 6);
         if (date.value==null){
             break;
         }
