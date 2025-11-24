@@ -44,9 +44,9 @@ var lookup = async function() {
             Link = LinkText.hyperlink;
         }
         const tweet = sheet.getCell(i-1, 3);
-        const importance = sheet.getCell(i-1, 5);
-        const tags = sheet.getCell(i-1, 7);
-        const notes = sheet.getCell(i-1, 8);
+        const importance = sheet.getCell(i-1, 4);
+        const tags = sheet.getCell(i-1, 5);
+        const notes = sheet.getCell(i-1, 6);
         if (date.value==null){
             break;
         }
