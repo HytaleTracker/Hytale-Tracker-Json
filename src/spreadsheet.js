@@ -75,7 +75,7 @@ var lookup = async function() {
                         Link
                     ]
                 }];
-                if(summary = "'null'") summary = "";
+                if(summary == "'null'") summary = "";
                 tweets.push({
                 mainPlatform: "tweet",
                 summary: LinkText.value,
