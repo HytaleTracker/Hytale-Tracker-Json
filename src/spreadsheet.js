@@ -2,6 +2,7 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 const config = require("../config");
 const { JWT } = require('google-auth-library');
 const fs = require('fs');
+const { json } = require('stream/consumers');
 
 // const doc = new GoogleSpreadsheet(config.spreadsheet);
 const creds = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY);
@@ -90,7 +91,8 @@ var lookup = async function() {
         
     }
     console.log(tweets.length + " tweets found");
-    //export to 2025-3.json
+    //export to json
+    //tweets.reverse();
     const filesToCreate = Math.ceil(tweets.length / 100);
     for(let i = 0; i < filesToCreate; i++){
         const chunk = tweets.slice(i * 100, i * 100 + 100);
@@ -99,6 +101,9 @@ var lookup = async function() {
     }
 
     fs.writeFileSync("data/tweetIndexes.json", JSON.stringify(filesToCreate, null, 2));
-    fs.writeFileSync("data/tweetCount.json", JSON.stringify(tweets.length + 1, null, 2))
+    fs.writeFileSync("data/tweetCount.json", JSON.stringify(tweets.length + 1, null, 2));
+
+    const currentDate = new Date().toUTCString();
+    fs.writeFileSync("data/lastUpdated.json", JSON.stringify(currentDate, null, 2));
 
 }
